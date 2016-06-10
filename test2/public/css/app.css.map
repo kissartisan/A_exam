@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AACA;EACC,0BAA0B,EAC1B;;AAED;EACC,iBAAiB,EACjB","file":"app.css","sourcesContent":["// @import \"node_modules/bootstrap-sass/assets/stylesheets/bootstrap\";\n.apolloGreen {\n\tbackground-color: #2ecc71;\n}\n\n.messageBlock {\n\tmargin-top: 10px;\n}"],"sourceRoot":"/source/"}
